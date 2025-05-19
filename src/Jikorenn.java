@@ -45,6 +45,12 @@ public class Jikorenn {
         return result;
     }
     
+    public static void Product() {
+    	
+    }
+    
+    
+    
 //    public static int findMax(int a, int b, int c) {
 //        System.out.println("問題6:findMaxメソッド");
 //    }
